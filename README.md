@@ -1,2 +1,2 @@
 # Skilvul-Typescript-Dasar
-Code yang dibuat berdasarkan kelas dari platform Skilvul dan materi Typescript Dasar
+This code based on a free-class from Skilvul on topic of "Typescript Dasar" and created by a Typescript Code
